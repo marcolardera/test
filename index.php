@@ -6,14 +6,15 @@
 </head>
 
 <body>
-<?php 
+< -->?php 
 
 echo "ciao";
 
-;?>
+?<!-- >
 
 lorem ipsum
 
 </body>
 
 </html>
+
