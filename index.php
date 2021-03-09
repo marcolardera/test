@@ -6,11 +6,6 @@
 </head>
 
 <body>
-< -->?php 
-
-echo "ciao";
-
-?<!-- >
 
 lorem ipsum
 
