@@ -7,7 +7,7 @@
 
 <body>
 
-lorem ipsum
+<?php echo "ciao";?>
 
 </body>
 
